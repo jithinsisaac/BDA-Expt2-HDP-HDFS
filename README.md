@@ -23,6 +23,7 @@ To Install the Hadoop Ecosystem via Hortonworks Data Platform Sandbox (HDP) & Ex
 ### Instructions
 
 -  Install HDP via https://jithinsisaac.github.io/posts/hdp_sandbox/
+   - Additional help via https://www.cloudera.com/tutorials/getting-started-with-hdp-sandbox.html  
 -  Work with HDFS commands via 
     -  https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html
     -  https://energie.labs.fhv.at/~repe/bigdata/introduction-to-big-data-projects/tutorials/hdfs-command-line-interface/
