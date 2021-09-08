@@ -6,7 +6,7 @@ Course Coordinator: Mr. Jithin Isaac
 ### Laboratory Experiment No. 3
  
 ### Objective  
-To Install the Hadoop Ecosystem via Hortonworks Data Platform Sandbox (HDP) & Explore Apachi Ambari UI on an AWS EC2 instance. To get familiar with Hadoop HDFS commands.
+To Install the Hadoop Ecosystem via Hortonworks Data Platform Sandbox (HDP) & Explore Apache Ambari UI on an AWS EC2 instance. To get familiar with Hadoop HDFS commands.
 
 ### Tools used  
 - Software: 
