@@ -27,6 +27,11 @@ To Install the Hadoop Ecosystem via Hortonworks Data Platform Sandbox (HDP) & Ex
 -  Work with HDFS commands via 
     -  https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html
     -  https://energie.labs.fhv.at/~repe/bigdata/introduction-to-big-data-projects/tutorials/hdfs-command-line-interface/
+
+### Sample Dataset
+-  geolocation.csv – This is the collected geolocation data from the trucks. It contains records showing truck location, date, time, type of event, speed, etc.
+-  trucks.csv – This is data was exported from a relational database and it shows information on truck models, driverid, truckid, and aggregated mileage info.
+
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**
 
